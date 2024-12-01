@@ -26,6 +26,6 @@ Kami mencari anggota tim yang bersemangat dan berbakat untuk bergabung dalam div
 ## Note
 
 - **Dokumentasi Backend**: Buat dokumentasi tentang cara menjalankan backend service atau RESTful API yang telah dibuat. Sertakan informasi ini dalam file **README.md**.
-- **Dokumentasi RESTful API**: Siapkan dokumentasi untuk RESTful API. Anda bisa menggunakan Swagger, file Postman (dalam format JSON), atau Tools yang sesuai.
+- **Dokumentasi RESTful API**: Siapkan dokumentasi untuk RESTful API. Anda bisa menggunakan Swagger, file Postman (dalam format JSON), atau Tools lain yang sesuai.
 - **Script Migrasi Database**: Buat script migrasi untuk tabel database dan jelaskan step by step cara menjalankan script tersebut dalam file **README.md**.
-- **Diagram Relasi antar Tabel**: Gambarkan hubungan antar tabel menggunakan alat seperti draw.io atau dbdiagram.io. Sertakan tautan ke diagram tersebut dalam **README.md**.
+- **Diagram Relasi antar Tabel**: Gambarkan hubungan antar tabel menggunakan Tools seperti draw.io, dbdiagram.io atau Tools lain yang sesuai. Sertakan tautan berupa link ke diagram tersebut dalam **README.md**.
