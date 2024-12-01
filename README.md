@@ -11,7 +11,7 @@ Kami mencari anggota tim yang bersemangat dan berbakat untuk bergabung dalam div
 ## Tech Stack
 
 - Bahasa Pemrograman untuk Pengembangan RESTful API: Bebas memilih bahasa pemrograman yang diinginkan.
-- Penggunaan Database: Wajib menggunakan database yang berbasis SQL (Structured Query Language).
+- Penggunaan Database: Wajib menggunakan database yang berbasis SQL (Structured Query Language) seperti PostgreSQL, MySQL, MariaDB dan sejenisnya.
 - Database NoSQL: Dilarang menggunakan database NoSQL, seperti MongoDB dan sejenisnya.
 
 ## The Task
